@@ -455,3 +455,15 @@ section {
     color: var(--black);
     text-align: center;
 }
+
+.swiper-pagination-bullet {
+    background-color: var(--black);
+}
+
+.swiper-button-next {
+    color: var(--black);
+}
+
+.swiper-button-prev {
+    color: var(--black);
+}
