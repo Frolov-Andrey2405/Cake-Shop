@@ -320,3 +320,9 @@ section {
     border-radius: 3rem;
     cursor: pointer;
 }
+
+.newsletter form .box2:hover {
+    color: var(--white);
+    background-color: var(--black);
+    outline: .1rem solid var(--white);
+}
