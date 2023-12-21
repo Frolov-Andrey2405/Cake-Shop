@@ -417,3 +417,8 @@ section {
     color: var(--black);
     padding: 1rem 0;
 }
+
+.footer .box-container .box a i {
+    padding-right: .5rem;
+    color: var(--black);
+}
