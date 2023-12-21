@@ -115,3 +115,19 @@ html::-webkit-scrollbar-thumb {
 #menu-bar {
     display: none;
 }
+
+.home {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/back.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.home .homeContent {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 4rem;
+}
