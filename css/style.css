@@ -447,3 +447,11 @@ section {
     background: var(--white);
     color: var(--black);
 }
+
+.footer .credit {
+    font-size: 2rem;
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+    color: var(--black);
+    text-align: center;
+}
