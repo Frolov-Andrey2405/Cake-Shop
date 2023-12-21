@@ -296,3 +296,27 @@ section {
     padding: 5rem 0;
 }
 
+.newsletter form h3 {
+    font-size: 3rem;
+    color: var(--white);
+    padding-bottom: .7rem;
+}
+
+.newsletter form .box {
+    width: 100%;
+    margin: .7rem 0;
+    padding: 1rem 1.2rem;
+    color: var(--black);
+    border-radius: .5rem;
+}
+
+.newsletter form .box2 {
+    width: 30%;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    padding: .5rem .5rem;
+    color: var(--black);
+    background: var(--white);
+    border-radius: 3rem;
+    cursor: pointer;
+}
