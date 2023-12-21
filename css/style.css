@@ -426,3 +426,8 @@ section {
 .footer .box-container .box a:hover i {
     padding-right: 2rem;
 }
+
+.footer .share {
+    padding: 1rem 0;
+    text-align: center;
+}
