@@ -50,3 +50,25 @@ html::-webkit-scrollbar-thumb {
     padding: 1.4rem 7%;
     z-index: 999;
 }
+
+.header .logoContent {
+    display: flex;
+    align-items: center;
+}
+
+.header .logoContent .logo img {
+    height: 4rem;
+}
+
+.header .logoContent .logoName {
+    color: var(--black);
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.header .navbar a {
+    font-size: 2rem;
+    margin-right: 3rem;
+    color: var(--black);
+    font-weight: bold;
+}
