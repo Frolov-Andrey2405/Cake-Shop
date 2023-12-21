@@ -442,3 +442,8 @@ section {
     margin: 0 .3rem;
     border-radius: 50%;
 }
+
+.footer .share a:hover {
+    background: var(--white);
+    color: var(--black);
+}
