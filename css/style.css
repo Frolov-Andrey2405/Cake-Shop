@@ -245,3 +245,17 @@ section {
     background-color: var(--white);
     flex-wrap: wrap;
 }
+
+.blogs .blogs-row .box .img {
+    flex: 1 1 45rem;
+}
+
+.blogs .blogs-row .box .img img {
+    width: 100%;
+    padding: 5rem;
+}
+
+.blogs .blogs-row .box .content {
+    flex: 1 1 45rem;
+    padding: 2rem;
+}
