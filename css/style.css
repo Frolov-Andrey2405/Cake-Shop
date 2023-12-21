@@ -410,3 +410,10 @@ section {
     color: var(--black);
     padding: 1rem 0;
 }
+
+.footer .box-container .box a {
+    display: block;
+    font-size: 1.6rem;
+    color: var(--black);
+    padding: 1rem 0;
+}
