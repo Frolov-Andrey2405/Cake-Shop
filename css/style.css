@@ -219,3 +219,16 @@ section {
     margin-top: 2rem;
     margin-bottom: 3rem;
 }
+
+.product .product-row .product-content .orderNow button {
+    font-size: 1.8rem;
+    background-color: var(--black);
+    color: var(--white);
+    border-radius: .7rem;
+    padding: .7rem 2rem;
+    cursor: pointer;
+}
+
+.product .product-row .product-content .orderNow button:hover {
+    font-size: 2rem;
+}
