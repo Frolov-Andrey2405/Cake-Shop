@@ -189,3 +189,16 @@ section {
     border-radius: 3rem;
     margin-right: 3rem;
 }
+
+.product .product-row .img img {
+    height: 100%;
+    width: 100%;
+}
+
+.product .product-row .img img:hover {
+    transform: scale(1.1);
+}
+
+.product .product-row .content {
+    margin-bottom: 4rem;
+}
