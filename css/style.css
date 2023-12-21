@@ -232,3 +232,16 @@ section {
 .product .product-row .product-content .orderNow button:hover {
     font-size: 2rem;
 }
+
+.blogs {
+    background: url(images/backGround.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.blogs .blogs-row .box {
+    display: flex;
+    align-items: center;
+    background-color: var(--white);
+    flex-wrap: wrap;
+}
