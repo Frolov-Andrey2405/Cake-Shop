@@ -259,3 +259,16 @@ section {
     flex: 1 1 45rem;
     padding: 2rem;
 }
+
+.blogs .blogs-row .box .content h3 {
+    font-size: 3.5rem;
+    color: var(--black);
+    text-shadow: var(--box-shadow);
+}
+
+.blogs .blogs-row .box .content p {
+    font-size: 1.6rem;
+    color: var(--black);
+    padding: 1rem 0;
+    line-height: 1.8;
+}
