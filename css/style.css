@@ -356,3 +356,13 @@ section {
     display: flex;
     align-items: center;
 }
+
+.review .review-row .box .client-info .img {
+    padding-right: 3rem;
+}
+
+.review .review-row .box .client-info .img img {
+    width: 7rem;
+    height: 7rem;
+    clip-path: circle(50% at 50% 50%);
+}
