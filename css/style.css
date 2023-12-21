@@ -272,3 +272,13 @@ section {
     padding: 1rem 0;
     line-height: 1.8;
 }
+
+.blogs .blogs-row .box .content a {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.blogs .blogs-row .box .content a:hover {
+    color: var(--black);
+    text-shadow: var(--box-shadow);
+}
