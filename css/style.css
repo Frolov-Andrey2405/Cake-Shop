@@ -366,3 +366,11 @@ section {
     height: 7rem;
     clip-path: circle(50% at 50% 50%);
 }
+
+.review .review-row .box .client-info .clientDetailed h3 {
+    font-size: 2.5rem;
+}
+
+.review .review-row .box .client-info .clientDetailed p {
+    font-size: 1.5rem;
+}
