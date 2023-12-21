@@ -387,3 +387,14 @@ section {
     gap: 1.5rem;
     padding: 2rem 1rem;
 }
+
+.footer .box-container .mainBox .content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.footer .box-container .mainBox .content h1 {
+    font-size: 2rem;
+    color: var(--black);
+}
