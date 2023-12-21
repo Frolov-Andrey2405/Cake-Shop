@@ -202,3 +202,20 @@ section {
 .product .product-row .content {
     margin-bottom: 4rem;
 }
+
+.product .product-row .product-content h3 {
+    font-size: 4rem;
+    color: var(--black);
+}
+
+.product .product-row .product-content p {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    color: var(--black);
+}
+
+.product .product-row .product-content .orderNow {
+    height: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
